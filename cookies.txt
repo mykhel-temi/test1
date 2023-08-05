@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+solidcoinsfx.world	TRUE	/	FALSE	1999999999	CameFrom	deleted
+solidcoinsfx.world	TRUE	/	FALSE	1999999999	PHPSESSID	j9dl7hpgsbe0acgnlvf2d2mv76
+

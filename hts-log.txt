@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 04 Aug 2023 14:36:39 at http://solidcoinsfx.world/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://solidcoinsfx.world/ -O1 "C:\Users\Miracle\Desktop\portfollio\investment" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:38:21	Error: 	"Not Found" (404) at link solidcoinsfx.world/“https://www.smartsupp.com” (from solidcoinsfx.world/)
+14:38:21	Error: 	"Not Found" (404) at link solidcoinsfx.world/assets/favicons/site.webmanifest (from solidcoinsfx.world/)
+14:44:52	Warning: 	Unexpected socket error during pre-loop
+14:45:10	Error: 	"Not Found" (404) at link solidcoinsfx.world/jivosite/jivosite.css (from solidcoinsfx.world/)
+14:45:10	Error: 	"Not Found" (404) at link solidcoinsfx.world/jivosite/jivosite.js (from solidcoinsfx.world/)
+14:47:37	Warning: 	File not parsed, looks like binary: solidcoinsfx.world/assets/libs/fontawesome-free-5.0.8/webfonts/fa-brands-400.html
+14:47:37	Warning: 	Warning: store application/octet-stream without scan: C:/Users/Miracle/Desktop/portfollio/investment/solidcoinsfx.world/assets/libs/fontawesome-free-5.0.8/webfonts/fa-brands-400.html
+14:47:40	Warning: 	Retry after error -4 (Connect Error) at link solidcoinsfx.world/assets/libs/flag-icon/flags/1x1/is.svg (from solidcoinsfx.world/assets/libs/flag-icon/css/flag-icon.min.css)
+14:47:40	Warning: 	Retry after error -4 (No data (connection closed)) at link solidcoinsfx.world/assets/libs/flag-icon/flags/4x3/mg.svg (from solidcoinsfx.world/assets/libs/flag-icon/css/flag-icon.min.css)
+14:47:41	Warning: 	Retry after error -4 (No data (connection closed)) at link solidcoinsfx.world/assets/libs/flag-icon/flags/1x1/us.svg (from solidcoinsfx.world/assets/libs/flag-icon/css/flag-icon.min.css)
+14:47:41	Warning: 	Retry after error -4 (Connect Error) at link solidcoinsfx.world/assets/libs/flag-icon/flags/4x3/uy.svg (from solidcoinsfx.world/assets/libs/flag-icon/css/flag-icon.min.css)
+14:47:41	Warning: 	Retry after error -4 (Connect Error) at link solidcoinsfx.world/assets/libs/flag-icon/flags/1x1/uy.svg (from solidcoinsfx.world/assets/libs/flag-icon/css/flag-icon.min.css)
+14:47:42	Warning: 	Retry after error -4 (Connect Error) at link solidcoinsfx.world/assets/libs/flag-icon/flags/4x3/uz.svg (from solidcoinsfx.world/assets/libs/flag-icon/css/flag-icon.min.css)
+14:47:43	Warning: 	Retry after error -4 (No data (connection closed)) at link solidcoinsfx.world/assets/libs/flag-icon/flags/1x1/vn.svg (from solidcoinsfx.world/assets/libs/flag-icon/css/flag-icon.min.css)
+14:47:43	Warning: 	Retry after error -4 (Receive Error) at link solidcoinsfx.world/assets/libs/flag-icon/flags/4x3/vu.svg (from solidcoinsfx.world/assets/libs/flag-icon/css/flag-icon.min.css)
+14:48:03	Warning: 	Retry after error -4 (No data (connection closed)) at link solidcoinsfx.world/assets/img/bg/bg_plan2.png (from solidcoinsfx.world/assets/css/main.css)
+14:48:03	Warning: 	Retry after error -4 (No data (connection closed)) at link solidcoinsfx.world/assets/img/bg/money2.png (from solidcoinsfx.world/assets/css/main.css)
+14:48:03	Error: 	"Not Found" (404) at link solidcoinsfx.world/assets/images/ps/i.png (from solidcoinsfx.world/?a=signup)
+14:48:03	Error: 	"Not Found" (404) at link solidcoinsfx.world/assets/img/images/img5.png (from solidcoinsfx.world/?a=about)
+14:48:03	Error: 	"Not Found" (404) at link solidcoinsfx.world/assets/img/images/certificate.png (from solidcoinsfx.world/?a=about)
+14:48:03	Error: 	"Not Found" (404) at link solidcoinsfx.world/assets/pdf/certificate.pdf (from solidcoinsfx.world/?a=about)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 24 seconds : 720 links scanned, 701 files written (18044220 bytes overall) [18093017 bytes received at 26451 bytes/sec], 185605 bytes transferred using HTTP compression in 3 files, ratio 27%, 6.3 requests per connection
+(8 errors, 13 warnings, 0 messages)
